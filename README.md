@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @dinosaurmike
 - 👀 I’m interested in 🌮🍪🍔🔧🏕
-- 🌱 I’m currently learning how to be a dad
-- 💞️ I’m looking to collaborate on educational experiences
-- 📫 How to reach me 
+- 🌱 I ❤ being a dad
