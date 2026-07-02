@@ -17,4 +17,4 @@ Interactive decision-support tool for homeowners.
 Rapid prototypes exploring creative tooling and behavior design.
 
 🌎 Website
-[https://https://dinomike.ca]
+[https://dinomike.ca]
