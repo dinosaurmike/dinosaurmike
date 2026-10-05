@@ -7,11 +7,14 @@ Creative Technologist building software, physical products, AI systems, and inte
 📚 ShelfLife
 A reading archive that turns books into beautiful, collectible artifacts.
 
-🎬 FrameRate
-A visual movie tracker built around the idea of personal media collections.
+🤳🏼 AR Organizer 
+An interface that remains legible against the chaotic, high-noise background of a real garage. 
 
-☀️ Solar ROI
-Interactive decision-support tool for homeowners.
+📦 IdeaBox
+Generate clean CNCmanufacturing files by using everyday language.
+
+🏗 TimberCraft
+Translating carpentry and architectural code into a responsive 3D viewport. Fast, accurate visual feedback bridges the gap between design and job-site execution.
 
 🤖 AI Experiments
 Rapid prototypes exploring creative tooling and behavior design.
