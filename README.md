@@ -1,5 +1,5 @@
 <a href="https://dinomike.ca">
-  <img alt="Mike Warren — Design engineer and creative technologist. Build first. Explain later." src="assets/hero-light.svg" width="100%">
+  <img alt="Mike Warren — Design engineer and creative technologist. Build first. Explain later." src="hero-light.svg" width="100%">
 </a>
 
 <br>
