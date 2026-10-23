@@ -1,82 +1,19 @@
-<a href="https://dinomike.ca">
-  <img alt="Mike Warren — Design engineer and creative technologist. Build first. Explain later." src="hero-light.svg" width="100%">
-</a>
+<a href="https://dinomike.ca"><img alt="Mike Warren — Design engineer and creative technologist. Build first. Explain later." src="hero-light.svg" width="100%"></a>
 
-<br>
+<a href="https://dinomike.ca"><img alt="00 · The Maker Compound — my portfolio as an explorable 3D world." src="cards/00-maker-compound.svg" width="100%"></a>
 
-<table>
-<tr>
-<td colspan="2" valign="top">
-
-<sub>00 &nbsp;·&nbsp; THE PORTFOLIO</sub>
-### [The Maker Compound ↗](https://dinomike.ca)
-My work as an explorable 3D world. Walk into a workshop, open a project, follow the avatar. Prefer it flat? There's a [classic version](https://dinomike.ca/classic.html).
-
-<kbd>Web</kbd> <kbd>Three.js</kbd> <kbd>WebGL</kbd>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub>01</sub>
-### [IdeaBox ↗](https://dinomike.ca/IdeaBox/)
-Describe a part in plain language. An LLM reads the intent; deterministic TypeScript turns it into fabrication-ready SVG you can inspect and edit.
-
-<kbd>Web</kbd> <kbd>AI → SVG</kbd> <kbd>TypeScript</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-<sub>02</sub>
-### [TimberCraft Studio ↗](https://dinomike.ca/TimberCraft/)
-Roof framing in a live 3D viewport: code-compliance checks, ghost comparisons and one-click fixes instead of a chat box.
-
-<kbd>Web</kbd> <kbd>3D</kbd> <kbd>Three.js</kbd>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub>03</sub>
-### [ShelfLife ↗](https://dinomike.ca/NoteToShelf/)
-A reading archive that turns your books into a personal 3D shelf and shareable, collectible artifacts.
-
-<kbd>Web</kbd> <kbd>React</kbd> <kbd>Analytics</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-<sub>04</sub>
-### [AR Workspace Organizer ↗](https://dinomike.ca/GarageStudio/)
-Projected labels and cut lists that stay legible against the visual noise of a real garage.
-
-<kbd>📱 Phone app</kbd> <kbd>AR</kbd>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub>05</sub>
-### [Toybox Siege ↗](https://dinomike.ca/ToyboxSiege/)
-Mixed-reality tabletop physics: build a siege engine and fire it across your living room.
-
-<kbd>📱 Phone app</kbd> <kbd>AR</kbd> <kbd>Physics</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-<sub>06</sub>
-### [Solar ROI ↗](https://dinomike.ca/solar.html)
-Utility tariffs and solar assumptions turned into a 30-second break-even decision.
-
-<kbd>Web</kbd> <kbd>Decision UX</kbd>
-
-</td>
-</tr>
-</table>
+<p>
+<a href="https://dinomike.ca/IdeaBox/"><img alt="01 · IdeaBox — describe a part in plain words; AI reads the intent and deterministic code draws cut-ready SVG." src="cards/01-ideabox.svg" width="49%"></a>
+<a href="https://dinomike.ca/TimberCraft/"><img alt="02 · TimberCraft — roof framing in live 3D with code checks and one-click fixes." src="cards/02-timbercraft.svg" width="49%"></a>
+</p>
+<p>
+<a href="https://dinomike.ca/NoteToShelf/"><img alt="03 · ShelfLife — your reading life as a personal 3D shelf." src="cards/03-shelflife.svg" width="49%"></a>
+<a href="https://dinomike.ca/GarageStudio/"><img alt="04 · AR Organizer (phone app) — projected labels and cut lists for a real garage." src="cards/04-ar-organizer.svg" width="49%"></a>
+</p>
+<p>
+<a href="https://dinomike.ca/ToyboxSiege/"><img alt="05 · Toybox Siege (phone app) — mixed-reality tabletop physics." src="cards/05-toybox-siege.svg" width="49%"></a>
+<a href="https://dinomike.ca/solar.html"><img alt="06 · Solar ROI — tariffs and assumptions turned into a 30-second break-even decision." src="cards/06-solar-roi.svg" width="49%"></a>
+</p>
 
 <br>
 
@@ -84,6 +21,4 @@ Utility tariffs and solar assumptions turned into a 30-second break-even decisio
 **Legible state.** &nbsp;What the system is doing, what changed, and how sure it is.<br>
 **Code-first.** &nbsp;React, TypeScript, Three.js, SVG and LLM APIs, with deterministic code where precision matters.
 
-<br>
-
-<sub>[LINKEDIN](https://www.linkedin.com/in/mikewar/) &nbsp;·&nbsp; [INSTRUCTABLES](https://www.instructables.com/member/mikeasaurus/) &nbsp;·&nbsp; [YOUTUBE](https://www.youtube.com/MikeWarren) &nbsp;·&nbsp; [DINOMIKE.CA](https://dinomike.ca)</sub>
+<sub>Prefer a flat page? [Classic portfolio](https://dinomike.ca/classic.html) &nbsp;·&nbsp; [LINKEDIN](https://www.linkedin.com/in/mikewar/) &nbsp;·&nbsp; [INSTRUCTABLES](https://www.instructables.com/member/mikeasaurus/) &nbsp;·&nbsp; [YOUTUBE](https://www.youtube.com/MikeWarren)</sub>
