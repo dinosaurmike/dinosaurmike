@@ -1,28 +1,92 @@
-# Mike Warren
- 
-**Design engineer & creative technologist.** I build interfaces that let people see, steer and trust what software (and AI) is doing.
- 
-M.Sc. Behavioral Science · 300+ prototypes at Autodesk · 7 published books · [dinomike.ca](https://dinomike.ca)
- 
----
- 
-## Try the work
- 
-| | Project | What it is | |
-|---|---|---|---|
-| 📦 | **IdeaBox** | Describe a part in plain language; an LLM extracts intent, deterministic TypeScript turns it into fabrication-ready SVG you can inspect and edit. | [**Live →**](https://dinomike.ca/IdeaBox/) |
-| 🏗 | **TimberCraft Studio** | Roof framing in a 3D viewport. Live code-compliance checks, ghost comparisons and one-click fixes instead of a chat box. | [**Live →**](https://dinomike.ca/TimberCraft/) |
-| 📚 | **ShelfLife** | A reading archive that turns your books into a personal 3D shelf and shareable, collectible artifacts. | [**Live →**](https://dinomike.ca/NoteToShelf/) |
-| 🤳🏼 | **AR Workspace Organizer** | Projected labels and cut lists that stay legible against the visual noise of a real garage. | [**Live →**](https://dinomike.ca/GarageStudio/) |
-| ☀️ | **Solar ROI** | Utility tariffs and solar assumptions turned into a 30-second break-even decision. | [**Live →**](https://dinomike.ca/solar.html) |
-| 🏰 | **Toybox Siege** | Mixed-reality tabletop physics: a siege engine in your living room. | [**Live →**](https://dinomike.ca/ToyboxSiege/) |
-| 🗺 | **The Maker Compound** | My portfolio as an explorable 3D world (Three.js), with a [classic version](https://dinomike.ca/classic.html) too. | [**Live →**](https://dinomike.ca) |
- 
-## What I focus on
- 
-- **Human–AI interaction patterns.** Non-chat primitives such as direct manipulation, ghost overlays, live verification and supervisory controls, so people can inspect and correct automated work.
-- **Making state legible.** How a system shows what it's doing, what changed, and how sure it is.
-- **Code-first prototyping.** React, TypeScript, Three.js/WebGL, SVG, LLM APIs (Gemini, OpenAI, Claude). AI-assisted, with deterministic code where precision matters.
-## Elsewhere
- 
-[LinkedIn](https://www.linkedin.com/in/mikewar/) · [Instructables](https://www.instructables.com/member/mikeasaurus/) · [YouTube](https://www.youtube.com/MikeWarren)
+<a href="https://dinomike.ca">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img alt="Mike Warren — Design engineer and creative technologist. Build first. Explain later." src="assets/hero-light.svg" width="100%">
+  </picture>
+</a>
+
+<br>
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+<sub>00 &nbsp;·&nbsp; THE PORTFOLIO</sub>
+### [The Maker Compound ↗](https://dinomike.ca)
+My work as an explorable 3D world. Walk into a workshop, open a project, follow the avatar. Prefer it flat? There's a [classic version](https://dinomike.ca/classic.html).
+
+<kbd>Web</kbd> <kbd>Three.js</kbd> <kbd>WebGL</kbd>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>01</sub>
+### [IdeaBox ↗](https://dinomike.ca/IdeaBox/)
+Describe a part in plain language. An LLM reads the intent; deterministic TypeScript turns it into fabrication-ready SVG you can inspect and edit.
+
+<kbd>Web</kbd> <kbd>AI → SVG</kbd> <kbd>TypeScript</kbd>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>02</sub>
+### [TimberCraft Studio ↗](https://dinomike.ca/TimberCraft/)
+Roof framing in a live 3D viewport: code-compliance checks, ghost comparisons and one-click fixes instead of a chat box.
+
+<kbd>Web</kbd> <kbd>3D</kbd> <kbd>Three.js</kbd>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>03</sub>
+### [ShelfLife ↗](https://dinomike.ca/NoteToShelf/)
+A reading archive that turns your books into a personal 3D shelf and shareable, collectible artifacts.
+
+<kbd>Web</kbd> <kbd>React</kbd> <kbd>Analytics</kbd>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>04</sub>
+### [AR Workspace Organizer ↗](https://dinomike.ca/GarageStudio/)
+Projected labels and cut lists that stay legible against the visual noise of a real garage.
+
+<kbd>📱 Phone app</kbd> <kbd>AR</kbd>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>05</sub>
+### [Toybox Siege ↗](https://dinomike.ca/ToyboxSiege/)
+Mixed-reality tabletop physics: build a siege engine and fire it across your living room.
+
+<kbd>📱 Phone app</kbd> <kbd>AR</kbd> <kbd>Physics</kbd>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>06</sub>
+### [Solar ROI ↗](https://dinomike.ca/solar.html)
+Utility tariffs and solar assumptions turned into a 30-second break-even decision.
+
+<kbd>Web</kbd> <kbd>Decision UX</kbd>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**Human–AI interaction.** &nbsp;Direct manipulation, ghost overlays, live verification and supervisory controls, not another chat box.<br>
+**Legible state.** &nbsp;What the system is doing, what changed, and how sure it is.<br>
+**Code-first.** &nbsp;React, TypeScript, Three.js, SVG and LLM APIs, with deterministic code where precision matters.
+
+<br>
+
+<sub>[LINKEDIN](https://www.linkedin.com/in/mikewar/) &nbsp;·&nbsp; [INSTRUCTABLES](https://www.instructables.com/member/mikeasaurus/) &nbsp;·&nbsp; [YOUTUBE](https://www.youtube.com/MikeWarren) &nbsp;·&nbsp; [DINOMIKE.CA](https://dinomike.ca)</sub>
