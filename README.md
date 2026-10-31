@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://dinomike.ca/IdeaBox/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/01-ideabox-dark.svg"><img alt="01 · IdeaBox — describe a part in plain words; AI reads the intent and deterministic code draws cut-ready SVG. Free to use, no key needed." src="cards/01-ideabox.svg" width="49%"></picture></a>
-<a href="https://dinomike.ca/TimberCraft/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/02-timbercraft-dark.svg"><img alt="02 · TimberCraft — roof framing in live 3D with code checks and one-click fixes." src="cards/02-timbercraft.svg" width="49%"></picture></a>
+<a href="https://dinomike.ca/TimberCraft/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/02-timbercraft-dark.svg"><img alt="02 · TimberCraft — roof framing in live 3D with code checks and one-click fixes. Code on GitHub." src="cards/02-timbercraft.svg" width="49%"></picture></a>
 </p>
 <p>
 <a href="https://dinomike.ca/NoteToShelf/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/03-shelflife-dark.svg"><img alt="03 · ShelfLife — your reading life as a personal 3D shelf." src="cards/03-shelflife.svg" width="49%"></picture></a>
@@ -22,6 +22,6 @@
 **Human–AI interaction.** &nbsp;Direct manipulation, ghost overlays, live verification and supervisory controls, not another chat box.<br>
 **Legible state.** &nbsp;What the system is doing, what changed, and how sure it is.<br>
 **Code-first.** &nbsp;React, TypeScript, Three.js, SVG and LLM APIs, with deterministic code where precision matters.<br>
-**Open source.** &nbsp;[Orbit](https://github.com/dinosaurmike/Orbit) is MIT-licensed, from the Android app to the neck firmware. The code for [IdeaBox](https://github.com/dinosaurmike/IdeaBox) and [ShelfLife](https://github.com/dinosaurmike/ShelfLife) is here to read.
+**Open source.** &nbsp;[Orbit](https://github.com/dinosaurmike/Orbit) is MIT-licensed, from the Android app to the neck firmware. The code for [IdeaBox](https://github.com/dinosaurmike/IdeaBox), [ShelfLife](https://github.com/dinosaurmike/ShelfLife) and [TimberCraft](https://github.com/dinosaurmike/TimberCraft) is here to read.
 
 <sub>Prefer a flat page? [Classic portfolio](https://dinomike.ca/classic.html) &nbsp;·&nbsp; [LINKEDIN](https://www.linkedin.com/in/mikewar/) &nbsp;·&nbsp; [INSTRUCTABLES](https://www.instructables.com/member/mikeasaurus/) &nbsp;·&nbsp; [YOUTUBE](https://www.youtube.com/MikeWarren)</sub>
