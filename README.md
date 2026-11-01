@@ -10,7 +10,7 @@
 </p>
 <p>
 <a href="https://dinomike.ca/NoteToShelf/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/03-shelflife-dark.svg"><img alt="03 · ShelfLife — your reading life as a personal 3D shelf." src="cards/03-shelflife.svg" width="49%"></picture></a>
-<a href="https://dinomike.ca/GarageStudio/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/04-ar-organizer-dark.svg"><img alt="04 · AR Organizer (phone app) — projected labels and cut lists for a real garage." src="cards/04-ar-organizer.svg" width="49%"></picture></a>
+<a href="https://dinomike.ca/GarageStudio/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/04-ar-organizer-dark.svg"><img alt="04 · AR Organizer (phone app) — projected labels and cut lists for a real garage. Code on GitHub." src="cards/04-ar-organizer.svg" width="49%"></picture></a>
 </p>
 <p>
 <a href="https://dinomike.ca/ToyboxSiege/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/05-toybox-siege-dark.svg"><img alt="05 · Toybox Siege (phone app) — mixed-reality tabletop physics. Code on GitHub." src="cards/05-toybox-siege.svg" width="49%"></picture></a>
@@ -22,6 +22,6 @@
 **Human–AI interaction.** &nbsp;Direct manipulation, ghost overlays, live verification and supervisory controls, not another chat box.<br>
 **Legible state.** &nbsp;What the system is doing, what changed, and how sure it is.<br>
 **Code-first.** &nbsp;React, TypeScript, Three.js, SVG and LLM APIs, with deterministic code where precision matters.<br>
-**Open source.** &nbsp;[Orbit](https://github.com/dinosaurmike/Orbit) is MIT-licensed, from the Android app to the neck firmware. The code for [IdeaBox](https://github.com/dinosaurmike/IdeaBox), [ShelfLife](https://github.com/dinosaurmike/ShelfLife), [TimberCraft](https://github.com/dinosaurmike/TimberCraft) and [Toybox Siege](https://github.com/dinosaurmike/ToyboxSiege) is here to read.
+**Open source.** &nbsp;[Orbit](https://github.com/dinosaurmike/Orbit) is MIT-licensed, from the Android app to the neck firmware. The code for [IdeaBox](https://github.com/dinosaurmike/IdeaBox), [ShelfLife](https://github.com/dinosaurmike/ShelfLife), [TimberCraft](https://github.com/dinosaurmike/TimberCraft), [Toybox Siege](https://github.com/dinosaurmike/ToyboxSiege) and [Garage Studio](https://github.com/dinosaurmike/GarageStudio) is here to read.
 
 <sub>Prefer a flat page? [Classic portfolio](https://dinomike.ca/classic.html) &nbsp;·&nbsp; [LINKEDIN](https://www.linkedin.com/in/mikewar/) &nbsp;·&nbsp; [INSTRUCTABLES](https://www.instructables.com/member/mikeasaurus/) &nbsp;·&nbsp; [YOUTUBE](https://www.youtube.com/MikeWarren)</sub>
