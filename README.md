@@ -14,7 +14,11 @@
 </p>
 <p>
 <a href="https://dinomike.ca/ToyboxSiege/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/05-toybox-siege-dark.svg"><img alt="05 · Toybox Siege (phone app) — mixed-reality tabletop physics. Code on GitHub." src="cards/05-toybox-siege.svg" width="49%"></picture></a>
-<a href="https://dinomike.ca/solar.html"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/06-solar-roi-dark.svg"><img alt="06 · Solar ROI — tariffs and assumptions turned into a 30-second break-even decision." src="cards/06-solar-roi.svg" width="49%"></picture></a>
+<a href="https://dinomike.ca/solar/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/06-solar-roi-dark.svg"><img alt="06 · SolarBreak (Solar ROI) — tariffs and assumptions turned into a 30-second break-even decision. Code on GitHub." src="cards/06-solar-roi.svg" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://dinomike.ca/DayMark/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/08-daymark-dark.svg"><img alt="08 · DayMark (phone and web) — a private daily check-in across five pillars of life. Capacity, not productivity. Code on GitHub." src="cards/08-daymark.svg" width="49%"></picture></a>
+<a href="https://github.com/dinosaurmike/BayAreaRealEstateGames"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/09-bay-area-games-dark.svg"><img alt="09 · Bay Area Games — house flipping and rental investing as games, with the real Bay Area math. Code on GitHub." src="cards/09-bay-area-games.svg" width="49%"></picture></a>
 </p>
 
 <br>
@@ -22,6 +26,6 @@
 **Human–AI interaction.** &nbsp;Direct manipulation, ghost overlays, live verification and supervisory controls, not another chat box.<br>
 **Legible state.** &nbsp;What the system is doing, what changed, and how sure it is.<br>
 **Code-first.** &nbsp;React, TypeScript, Three.js, SVG and LLM APIs, with deterministic code where precision matters.<br>
-**Open source.** &nbsp;[Orbit](https://github.com/dinosaurmike/Orbit) is MIT-licensed, from the Android app to the neck firmware. The code for [IdeaBox](https://github.com/dinosaurmike/IdeaBox), [ShelfLife](https://github.com/dinosaurmike/ShelfLife), [TimberCraft](https://github.com/dinosaurmike/TimberCraft), [Toybox Siege](https://github.com/dinosaurmike/ToyboxSiege) and [Garage Studio](https://github.com/dinosaurmike/GarageStudio) is here to read.
+**Open source.** &nbsp;[Orbit](https://github.com/dinosaurmike/Orbit) is MIT-licensed, from the Android app to the neck firmware. The code for [IdeaBox](https://github.com/dinosaurmike/IdeaBox), [ShelfLife](https://github.com/dinosaurmike/ShelfLife), [TimberCraft](https://github.com/dinosaurmike/TimberCraft), [Toybox Siege](https://github.com/dinosaurmike/ToyboxSiege), [Garage Studio](https://github.com/dinosaurmike/GarageStudio), [SolarBreak](https://github.com/dinosaurmike/SolarBreak), [DayMark](https://github.com/dinosaurmike/DayMark) and the [Bay Area Games](https://github.com/dinosaurmike/BayAreaRealEstateGames) is here to read. Built with Claude Code as a coding partner.
 
 <sub>Prefer a flat page? [Classic portfolio](https://dinomike.ca/classic.html) &nbsp;·&nbsp; [LINKEDIN](https://www.linkedin.com/in/mikewar/) &nbsp;·&nbsp; [INSTRUCTABLES](https://www.instructables.com/member/mikeasaurus/) &nbsp;·&nbsp; [YOUTUBE](https://www.youtube.com/MikeWarren)</sub>
