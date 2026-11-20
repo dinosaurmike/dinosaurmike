@@ -13,7 +13,7 @@
 <a href="https://dinomike.ca/TimberCraft/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/02-timbercraft-dark.svg"><img alt="02 · TimberCraft — roof framing in live 3D with code checks and one-click fixes. Code on GitHub." src="cards/02-timbercraft.svg" width="49%"></picture></a>
 </p>
 <p>
-<a href="https://dinomike.ca/NoteToShelf/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/03-shelflife-dark.svg"><img alt="03 · ShelfLife — your reading life as a personal 3D shelf." src="cards/03-shelflife.svg" width="49%"></picture></a>
+<a href="https://shelflife.love/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/03-shelflife-dark.svg"><img alt="03 · ShelfLife: your reading life as a personal 3D shelf." src="cards/03-shelflife.svg" width="49%"></picture></a>
 <a href="https://dinomike.ca/GarageStudio/"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/04-ar-organizer-dark.svg"><img alt="04 · AR Organizer (phone app) — projected labels and cut lists for a real garage. Code on GitHub." src="cards/04-ar-organizer.svg" width="49%"></picture></a>
 </p>
 <p>
